@@ -1,4 +1,4 @@
-# Intel_oneAPI_Hackerearth_Predict-the-quality-of-freshwater
+# Intel oneAPI - Predict the Quality of Freshwater
 
 ### Competition hosted on <a href="https://www.hackerearth.com/challenges/hackathon/intel-oneapi-hackathon-for-open-innovation/">Hackerearth</a>
 
