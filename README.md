@@ -80,21 +80,3 @@ The missing values are imputed by two method.
 #### Catboost model Local explantion for class 1(safe to drink)
 ![Alt text](https://github.com/hariprasath-v/Intel_oneAPI_Hackerearth_Predict-the-quality-of-freshwater/blob/main/Model%20Interpretation/catboost%20model%20Local%20explantion%20for%20class%201(safe%20to%20drink).png)
 
-### Model demo
-#### For model demo catboost model is used.The demo app created by using the streamlit.
-#### Manual input fields for the columns
-#### Local explanation using shapash smart predictor
-<a href="https://freshwater-quality.streamlit.app">Model Demo App</a>  
- 
-
-
-
-### File information
-
- predict-the-quality-of-freshwater-model.ipynb[![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/hari141v/predict-the-quality-of-freshwater-model)
- 
- predict-the-quality-of-freshwater-eda.ipynb[![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/code/hari141v/predict-the-quality-of-freshwater-eda)
- 
- 
-   
-        
